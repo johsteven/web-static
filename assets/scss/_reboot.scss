@@ -37,7 +37,9 @@ section {
 }
 
 p,
-a {
+a,
+button,
+input {
     font-size: 15px;
 }
 
@@ -59,7 +61,10 @@ img {
 
 @media (max-width: 992px) {
     p,
-    a {
+    a,
+    button,
+    input,
+    sele {
         font-size: 13px;
     }
 }
